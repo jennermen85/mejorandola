@@ -1,0 +1,92 @@
+a 
+{
+	color: #22BCE0;
+}
+body 
+{
+	background: #EEEEEE;
+	font-size: Arial;
+	font-size: 16px;
+}
+footer
+{
+	color: white;
+	background: #22BCE0;
+	text-align: center;
+}
+header
+{
+	background: #344B54;
+	color: white;
+	overflow: hidden;
+	padding: 0.5em;
+}
+header figure
+{
+	float: left;
+}
+header h1
+{
+	font-size: 1.2em;
+	font-weight: normal;
+	margin: 0.2em 70px 0 0;
+}
+header #avatar
+{
+	margin: 0.5em 0.5em 0 0;
+	position: absolute;
+	right: 0;
+	top: 0;
+}
+header #avatar img 
+{
+	border-radius: 50%;
+	width: 55px;
+}
+header #logo img 
+{
+	border-right: 1px solid white;
+	margin-right: 0.5em;
+	padding-right: 0.5em;
+	width: 52px;
+}
+nav
+{
+	background: #80BCA3;
+	padding: 0 0.5em;
+	position: relative;
+}
+nav ul
+{
+	list-style: none;
+	margin: 0;
+	padding: 0;
+}
+nav ul #publicar_nav
+{
+	
+	position: absolute;
+	top: -0.3em;
+	right: 0;
+}
+nav ul #publicar_nav a 
+{
+	background: #22BCE0;
+	border-radius: 0.3em;
+	box-shadow: rgba(0,0,0,0.5) 2px 2px 20px;
+	font-style: italic;
+	padding: 0.5em;
+	text-decoration: none;
+	text-shadow: rgba(0,0,0,0.5) 2px 2px 5px;
+}
+nav ul li 
+{
+	display: inline-block;
+	margin: 0 1em 0 0;
+}
+nav ul li a 
+{
+	color: white;
+	display: block;
+	padding: 0.5em 0;
+}
